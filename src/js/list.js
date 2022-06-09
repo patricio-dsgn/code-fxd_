@@ -1,6 +1,6 @@
 
 
-const file = '../src/js/data.json';
+const file = './src/js/data.json';
 const list = document.getElementById('list');
 let algo = '';
 
