@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: block;
+    position: relative;
+    font-family: 'courier', sans-serif;
+    font-size: 14px;
+    background: #f5f5f5;
+}
+
+img{
+    width: 100%;
+}
+
+a { text-decoration: none;}
+
+
+ul{
+    position: relative;
+    display: block;
+    margin: auto;
+    width: 600px;
+}
+
+ul li{
+    margin-bottom: 5px;
+}
+
+#list img{
+    height: 20px;
+    width: auto;
+    vertical-align: middle;
+}

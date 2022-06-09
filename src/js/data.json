@@ -1,0 +1,44 @@
+{
+    "gif": [
+        "tree.gif",
+        "snow.gif",
+        "rabbit.gif",
+        "icecream.gif",
+        "lake.gif",
+        "cat.gif",
+        "bmo.gif",
+        "arrow.gif"
+    ],
+    "jpg": [
+        "anna-shvets-1.jpg",
+        "anna-shvets-2.jpg",
+        "anna-shvets-3.jpg",
+        "daria-shevtsova.jpg",
+        "girl.jpg",
+        "jahoo-clouseau.jpg",
+        "kamile-ozdemir.jpg",
+        "kenneth-gorzal-surillo.jpg",
+        "miguel-a-padrinan.jpg",
+        "suzy-hazelwood.jpg",
+        "toa-heftiba-sinca.jpg",
+        "wendy-wei.jpg",
+        "zaksheuskaya.jpg"
+    ],
+    "png": [
+        "abstract.png",
+        "catdog.png",
+        "dog2.png",
+        "heart1.png",
+        "heart2.png",
+        "lion.png",
+        "logo.png",
+        "man.png",
+        "man2.png",
+        "pencil.png",
+        "team.png",
+        "woman.png"
+    ],
+    "mp4": [
+        "egg.mp4"
+    ]
+}
